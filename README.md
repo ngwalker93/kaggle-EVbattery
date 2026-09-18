@@ -6,17 +6,11 @@ Kaggle Dataset: https://www.kaggle.com/datasets/srisyra02/ev-battery-health-pred
 
 ```
 kaggle-EVbattery/
-├── .gitignore
-├── requirements.txt
-├── README.md
-├── data/
-│   └── processed/
-│       ├── X_train.csv
-│       ├── X_test.csv
-│       ├── y_train.csv
-│       └── y_test.csv
-├── scr/
-│   └── 01_ingestion.py
 ├── notebooks/
 │   └── 01_EDA-ingestion.ipynb
+├── scr/
+│   └── 01_ingestion.py
+├── .gitignore
+├── README.md 
+└── requirements.txt
 ```
